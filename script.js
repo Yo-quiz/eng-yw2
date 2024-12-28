@@ -63,7 +63,7 @@ const yoKaiList = [
     { name: "Predictabull", img: "Torivinador.png" },
     { name: "Smashibull", img: "Torivino.png" },
     { name: "DON-CHAN", aliases: ["DON-CHAN", "Don chan"], img: "Don-chan.png" },
-    { name: "Ray O'Light", aliases: ["Ray O'Light", "Ray O' Light", "Ray O Light"], img: "Rayito.png"},
+    { name: "Ray O'Light", aliases: ["Ray O'Light", "Ray O' Light", "Ray O Light"], img: "Rayito.png" },
     { name: "Kyryn", img: "Kyryn.png" },
     { name: "Unikirin", img: "Unikyryn.png" },
     { name: "Wydeawake", img: "Envelo.png" },
